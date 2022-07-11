@@ -58,7 +58,10 @@ else:
 s= "hello"
 i=0
 
-## Applying truly and falsy values 
+## Applying truly and falsy values
+## If empty object hence will return true
+## if not empty is return false
+
 
 if not s: # Checking if string is empty 
     print("String is empty")
