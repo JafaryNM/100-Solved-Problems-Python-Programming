@@ -19,6 +19,8 @@
     collection (such as a dictionary, set, or frozen set).
 """
 
+########## SOLUTIONS ######################
+
 s="python"
 ### Test with empty string ###
 
