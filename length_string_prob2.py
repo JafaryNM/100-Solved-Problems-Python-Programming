@@ -21,7 +21,7 @@ OUTPUT
  
  
 
-"""
+
 
 ############# SOLUTIONS ################
 
@@ -40,6 +40,7 @@ if (len(s)==0):
 
 # Check not allowed to print list outside the list
 
+
 elif(i<len(s)):
     
     print(s[i])
@@ -47,6 +48,26 @@ elif(i<len(s)):
 else:
     
     print("i ia out of range")
+"""
+
+########## OPTION 2 #########
+
+
+
+
+s= "hello"
+i=0
+
+## Applying truly and falsy values 
+
+if not s: # Checking if string is empty 
+    print("String is empty")
+    
+elif i < len(s):
+    print(s[i])
+
+else:
+    print("i you choose is out of range")
 
 
 
