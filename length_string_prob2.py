@@ -56,6 +56,7 @@ else:
 
 
 s= "hello"
+
 i=0
 
 ## Applying truly and falsy values
@@ -63,11 +64,13 @@ i=0
 ## if not empty is return false
 
 
-if not s: # Checking if string is empty 
+if not s: # Checking if string is empty
     print("String is empty")
-    
+
+
 elif i < len(s):
     print(s[i])
+
 
 else:
     print("i you choose is out of range")
