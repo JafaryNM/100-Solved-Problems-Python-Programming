@@ -10,8 +10,8 @@ If it does, print True. Else, print False
 """
 
 OUTPUT 
- "Hello" --> Print out  "olleh"
- "Woo"  --> Print out "oow"
+ "Hello" --> Print out  "false"
+ "7,8"  --> Print out "True"
  ""   --> ""
 """
 
