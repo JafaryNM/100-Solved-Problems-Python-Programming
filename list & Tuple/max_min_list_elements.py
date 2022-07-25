@@ -10,7 +10,7 @@ You may assume that the list only contains numeric values.
 If the list is empty, print None
 
 Output Should be
-
+ Input [3,5,8,0] return max_number =8 and min number= 0
 
 """
 ################## Solution 1 #############
